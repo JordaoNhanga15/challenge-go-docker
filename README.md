@@ -10,4 +10,4 @@ vale a pena dar uma conferida no próprio site da Go Lang para aprender como faz
 
 Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o Docker Hub.
 
-A imagem de nosso projeto Go precisa ter menos de 2MB =)
+A imagem de nosso projeto Go precisa ter menos de 2MB 
